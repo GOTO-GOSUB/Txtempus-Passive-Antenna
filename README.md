@@ -9,3 +9,9 @@ The compact part will fit inside an official Pi Zero case.
 
 Henner Zeller's tool to set radio controlled timepieces using NTP and a Raspberry Pi can be found here:
 https://github.com/hzeller/txtempus
+
+Please be sure to download the correct board for your region.
+
+**Example PCBs:**
+
+![PCB examples](https://github.com/GOTO-GOSUB/Txtempus-Passive-Antenna/blob/6059122e0f80b1dd0b6ca91867388da4089187ee/Images/MSF%20(UK)%20Standard.jpg)
